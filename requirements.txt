@@ -3,5 +3,5 @@ langchain==0.3.27
 langchain-openai==0.3.33
 langchain-chroma==0.2.6
 python-dotenv==1.1.1
-openai==1.63.2
+openai>=1.104.2,<2.0.0
 chromadb==1.0.21
